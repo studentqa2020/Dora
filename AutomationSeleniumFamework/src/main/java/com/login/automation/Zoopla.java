@@ -16,6 +16,7 @@ import com.config1.LoginPage;
 
 public class Zoopla {
 
+	
 		public static void main(String[] args) throws Throwable {
 			
 			System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
