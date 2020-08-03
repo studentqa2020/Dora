@@ -2,23 +2,23 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12798" started-at="2020-08-03T21:32:57Z" finished-at="2020-08-03T21:33:09Z">
+  <suite name="Default suite" duration-ms="15073" started-at="2020-08-03T22:25:48Z" finished-at="2020-08-03T22:26:03Z">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.runnerfile.ZooplaRunner@14d3bc22]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Default test" duration-ms="12798" started-at="2020-08-03T21:32:57Z" finished-at="2020-08-03T21:33:09Z">
+    <test name="Default test" duration-ms="15073" started-at="2020-08-03T22:25:48Z" finished-at="2020-08-03T22:26:03Z">
       <class name="com.runnerfile.ZooplaRunner">
-        <test-method status="PASS" signature="setupExtentsReport()[pri:0, instance:com.runnerfile.ZooplaRunner@14d3bc22]" name="setupExtentsReport" is-config="true" duration-ms="11" started-at="2020-08-03T21:32:57Z" finished-at="2020-08-03T21:32:57Z">
+        <test-method status="PASS" signature="setupExtentsReport()[pri:0, instance:com.runnerfile.ZooplaRunner@14d3bc22]" name="setupExtentsReport" is-config="true" duration-ms="14" started-at="2020-08-03T22:25:48Z" finished-at="2020-08-03T22:25:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupExtentsReport -->
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.runnerfile.ZooplaRunner@14d3bc22]" name="setUpClass" is-config="true" duration-ms="104" started-at="2020-08-03T21:32:57Z" finished-at="2020-08-03T21:32:57Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.runnerfile.ZooplaRunner@14d3bc22]" name="setUpClass" is-config="true" duration-ms="143" started-at="2020-08-03T22:25:48Z" finished-at="2020-08-03T22:25:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.runnerfile.ZooplaRunner@14d3bc22]" name="runScenario" duration-ms="12619" started-at="2020-08-03T21:32:57Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-08-03T21:33:09Z">
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.runnerfile.ZooplaRunner@14d3bc22]" name="runScenario" duration-ms="14759" started-at="2020-08-03T22:25:48Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-08-03T22:26:03Z">
           <params>
             <param index="0">
               <value>
@@ -34,7 +34,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.runnerfile.ZooplaRunner@14d3bc22]" name="tearDownClass" is-config="true" duration-ms="25" started-at="2020-08-03T21:33:09Z" finished-at="2020-08-03T21:33:09Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.runnerfile.ZooplaRunner@14d3bc22]" name="tearDownClass" is-config="true" duration-ms="95" started-at="2020-08-03T22:26:03Z" finished-at="2020-08-03T22:26:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

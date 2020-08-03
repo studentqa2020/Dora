@@ -116,7 +116,7 @@
 				<version>3.0.0-M4</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>Automation.xml</suiteXmlFile>
+						<suiteXmlFile>Zoopla.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
