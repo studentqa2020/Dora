@@ -33,9 +33,22 @@ public class LoginPage {//page object model=page factory
 		public WebElement getSubmit() {
 			return submit;
 		}
-		public void click() {
-			// TODO Auto-generated method stub
+		public void click() {		
 			
 		}
+		// logout = //*[id='log out']
+		@FindBy(xpath ="//*[id='log out']")
+		private WebElement logout;
 		
+		public WebElement getlogout(){
+			return logout;
+		}
+		//search =//*[class='search']
+		@FindBy(xpath ="//*[id='search']")
+		private WebElement search;
+		
+		public WebElement getsearch(){
+			return search;
+		
+		}	
 }
